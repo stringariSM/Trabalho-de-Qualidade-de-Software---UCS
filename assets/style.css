@@ -1,0 +1,17 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+
+html,
+body {
+    overflow-x: hidden;
+    /* Prevent scroll on narrow devices */
+}
+
+body {
+    padding-top: 56px;
+}
+
+.actions-bar{
+    display:flex;
+    justify-content: flex-end;
+    margin: .5rem;
+}
